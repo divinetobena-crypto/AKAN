@@ -20,7 +20,7 @@ Git clone ()
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://github.com/divinetobena-crypto/AKAN.git)
 
 ## Technologies used
 HTML
